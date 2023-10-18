@@ -10,6 +10,9 @@
 │   └── data_stucture
 │       ├── hash_table.js
 │       ├── queues.js
+│       ├── singly_linked_list.js
 │       └── stack.js
+├── cpp
+│   └── singly_linked_list.cpp
 └── README.md
 ```
