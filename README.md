@@ -13,6 +13,7 @@
 │       ├── singly_linked_list.js
 │       └── stack.js
 ├── cpp
-│   └── singly_linked_list.cpp
+    └── data_structure
+│       └── singly_linked_list.cpp
 └── README.md
 ```
