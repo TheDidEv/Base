@@ -19,7 +19,12 @@
 │
 ├── ts
 │   └── src
-│       └──SOLID 
+│       └── SOLID 
+│           ├── dip.ts
+│           ├── isp.ts
+│           ├── Lsp.ts
+│           ├── ocp.ts
+│           └── srp.ts
 │
 ├── .gitignore
 └── README.md
