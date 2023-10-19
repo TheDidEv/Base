@@ -12,8 +12,21 @@
 │       ├── queues.js
 │       ├── singly_linked_list.js
 │       └── stack.js
+│
 ├── cpp
 │   └── data_structure
 │       └── singly_linked_list.cpp
+│
+├── ts
+│   └── src
+│       └──SOLID 
+│
+├── .gitignore
 └── README.md
 ```
+
+For start TS code, go to the ```ts``` directory and write command
+```
+npx tsc -w
+```
+After that a new "dist" folder will be created. If you need to run the application, it is done exactly like with Node.js code.
