@@ -4,6 +4,9 @@
 ## 📂 Repository Structure
 ```
 ├── js
+│   ├── algo
+│   │   ├── bubbleSort.js
+│   │   └── quickSort.js
 │   ├── Cryptography
 │   │   ├── hash.js
 │   │   └── hmac.js
