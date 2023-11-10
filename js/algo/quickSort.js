@@ -13,6 +13,9 @@ function quickSort(arr) {
         }
     }
     return quickSort(left).concat(pivot, quickSort(right));
+    // OR
+    // const sorted = [...quickSort(left), pivot, ...quickSort(right)];
+    // return sorted;
 }
 
 let someArr = [12, -12, 2, 223, 1, 0, -3];
