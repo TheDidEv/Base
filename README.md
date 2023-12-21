@@ -7,9 +7,11 @@
 │   ├── algo
 │   │   ├── bubbleSort.js
 │   │   └── quickSort.js
+│   │
 │   ├── Cryptography
 │   │   ├── hash.js
 │   │   └── hmac.js
+│   │
 │   └── data_stucture
 │       ├── hash_table.js
 │       ├── queues.js
@@ -17,8 +19,14 @@
 │       └── stack.js
 │
 ├── cpp
-│   └── data_structure
-│       └── singly_linked_list.cpp
+│   ├──data_structure
+│   │   └── singly_linked_list.cpp
+│   │
+│   └── desing_patterns
+│        ├── Behavioral
+│        ├── Creational
+│        ├── Structural
+│        └── README.md  
 │
 ├── ts
 │   └── src
