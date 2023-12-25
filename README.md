@@ -5,8 +5,9 @@
 ```
 ├── js
 │   ├── algo
-│   │   ├── bubbleSort.js
-│   │   └── quickSort.js
+│   │   └── Sort
+│   │       ├── bubbleSort.js
+│   │       └── quickSort.js
 │   │
 │   ├── Cryptography
 │   │   ├── hash.js
@@ -19,14 +20,16 @@
 │       └── stack.js
 │
 ├── cpp
-│   ├──data_structure
+│   ├── data_structure
 │   │   └── singly_linked_list.cpp
 │   │
 │   └── desing_patterns
-│        ├── Behavioral
-│        ├── Creational
-│        ├── Structural
-│        └── README.md  
+│       ├── Behavioral
+│       ├── Creational
+│       │   └── Factory_Method.cpp
+│       │
+│       ├── Structural
+│       └── README.md  
 │
 ├── ts
 │   └── src
