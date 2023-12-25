@@ -25,10 +25,14 @@
 │   │
 │   └── desing_patterns
 │       ├── Behavioral
+│       │   └── Observer.cpp
+│       │
 │       ├── Creational
 │       │   └── Factory_Method.cpp
 │       │
 │       ├── Structural
+│       │   └── Adapter.cpp
+│       │
 │       └── README.md  
 │
 ├── ts
