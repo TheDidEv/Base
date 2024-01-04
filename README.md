@@ -5,9 +5,12 @@
 ```
 ├── js
 │   ├── algo
-│   │   └── Sort
-│   │       ├── bubbleSort.js
-│   │       └── quickSort.js
+│   │   ├── Sort
+│   │   │   ├── bubbleSort.js
+│   │   │   └── quickSort.js
+│   │   │
+│   │   └── Find
+│   │       └── binary_search.js
 │   │
 │   ├── Cryptography
 │   │   ├── hash.js
