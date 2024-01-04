@@ -33,7 +33,7 @@
 │       ├── Structural
 │       │   └── Adapter.cpp
 │       │
-│       └── README.md  
+│       └── README.md
 │
 ├── ts
 │   └── src
