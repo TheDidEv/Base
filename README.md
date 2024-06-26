@@ -3,6 +3,28 @@
 
 ## 📂 Repository Structure
 ```
+├── cpp
+│   ├── data_structure
+│   │   └── singly_linked_list.cpp
+│   │
+│   └── desing_patterns
+│       ├── Behavioral
+│       │   └── Observer.cpp
+│       │
+│       ├── Creational
+│       │   └── Factory_Method.cpp
+│       │
+│       ├── Structural
+│       │   └── Adapter.cpp
+│       │
+│       └── README.md
+│
+├── go
+│    └── algo
+│        └── Sort
+│            ├── BubbleSort
+│            └── SelectSort
+│
 ├── js
 │   ├── algo
 │   │   ├── Sort
@@ -21,22 +43,6 @@
 │       ├── queues.js
 │       ├── singly_linked_list.js
 │       └── stack.js
-│
-├── cpp
-│   ├── data_structure
-│   │   └── singly_linked_list.cpp
-│   │
-│   └── desing_patterns
-│       ├── Behavioral
-│       │   └── Observer.cpp
-│       │
-│       ├── Creational
-│       │   └── Factory_Method.cpp
-│       │
-│       ├── Structural
-│       │   └── Adapter.cpp
-│       │
-│       └── README.md
 │
 ├── ts
 │   └── src
